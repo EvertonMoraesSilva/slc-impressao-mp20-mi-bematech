@@ -1,0 +1,20 @@
+{
+  "name": "@slc/impressao-mp20-mi-bematech",
+  "version": "1.0.0",
+  "description": "Funções para preencher e enviar formulário para impressora Bematech MP20-MI",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvertonMoraesSilva/slc-impressao-mp20-mi-bematech.git"
+  },
+  "keywords": ["slc", "ponto de controle", "ibs"],
+  "author": "IBS Tecnologia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EvertonMoraesSilva/slc-impressao-mp20-mi-bematech/issues"
+  },
+  "homepage": "https://github.com/EvertonMoraesSilva/slc-impressao-mp20-mi-bematech#readme"
+}
