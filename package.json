@@ -10,7 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/EvertonMoraesSilva/slc-impressao-mp20-mi-bematech.git"
   },
-  "keywords": ["slc", "ponto de controle", "ibs"],
+  "keywords": [
+    "slc",
+    "ponto de controle",
+    "ibs"
+  ],
   "author": "IBS Tecnologia",
   "license": "ISC",
   "bugs": {
