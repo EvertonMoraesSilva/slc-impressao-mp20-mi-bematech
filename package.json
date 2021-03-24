@@ -1,6 +1,6 @@
 {
   "name": "@ibs-tecnologia/slc_ibs_impressao-mp20-mi-bematech",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Funções para preencher e enviar formulário para impressora Bematech MP20-MI",
   "main": "app.js",
   "scripts": {
