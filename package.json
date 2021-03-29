@@ -25,9 +25,7 @@
   "_requiredBy": [
     "/"
   ],
-  "dependencies": {
-    "escpos": "^2.5.2"
-  },
+  "dependencies": {},
   "devDependencies": {
     "escpos": "^2.5.2"
   },
