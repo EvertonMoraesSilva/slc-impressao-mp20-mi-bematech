@@ -28,6 +28,9 @@
   "dependencies": {
     "escpos": "^2.5.2"
   },
+  "devDependencies": {
+    "escpos": "^2.5.2"
+  },
   "deprecated": false,
   "_resolved": "https://registry.npmjs.org/@ibstecnologia/slc_ibs_impressao-mp20-mi-bematech/-/slc_ibs_impressao-mp20-mi-bematech-1.1.2.tgz",
   "_spec": "1.0.1",
