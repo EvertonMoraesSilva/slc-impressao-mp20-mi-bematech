@@ -1,24 +1,59 @@
 {
-  "name": "@ibs-tecnologia/slc_ibs_impressao-mp20-mi-bematech",
-  "version": "1.0.1",
+  "_args": [
+    [
+      "@ibs-tecnologia/slc_ibs_impressao-mp20-mi-bematech@1.0.1",
+      "D:\\Ponto de controle\\Ponto_controle_v1\\ponto_controle_new"
+    ]
+  ],
+  "_from": "@ibs-tecnologia/slc_ibs_impressao-mp20-mi-bematech@1.0.1",
+  "_id": "@ibs-tecnologia/slc_ibs_impressao-mp20-mi-bematech@1.0.1",
+  "_inBundle": false,
+  "_integrity": "sha512-o24Vw7D1L6/QhVCN58Snxtg/PZkju/cOtlBIbpwWX6fcszkrqjLldBV/IsCUU7XoO5n/U9lWAPV9QexFeP3Tzg==",
+  "_location": "/@ibs-tecnologia/slc_ibs_impressao-mp20-mi-bematech",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@ibs-tecnologia/slc_ibs_impressao-mp20-mi-bematech@1.0.1",
+    "name": "@ibs-tecnologia/slc_ibs_impressao-mp20-mi-bematech",
+    "escapedName": "@ibs-tecnologia%2fslc_ibs_impressao-mp20-mi-bematech",
+    "scope": "@ibs-tecnologia",
+    "rawSpec": "1.0.1",
+    "saveSpec": null,
+    "fetchSpec": "1.0.1"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "dependencies": {
+    "escpos": "^2.5.2"
+  },
+  "deprecated": false,
+  "_resolved": "https://registry.npmjs.org/@ibstecnologia/slc_ibs_impressao-mp20-mi-bematech/-/slc_ibs_impressao-mp20-mi-bematech-1.1.2.tgz",
+  "_spec": "1.0.1",
+  "_where": "D:\\Ponto de controle\\Ponto_controle_v1\\ponto_controle_new",
+  "author": {
+    "name": "IBS Tecnologia"
+  },
+  "bugs": {
+    "url": "https://github.com/EvertonMoraesSilva/slc-impressao-mp20-mi-bematech/issues"
+  },
   "description": "Funções para preencher e enviar formulário para impressora Bematech MP20-MI",
-  "main": "app.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/EvertonMoraesSilva/slc-impressao-mp20-mi-bematech.git"
-  },
+  "homepage": "https://github.com/EvertonMoraesSilva/slc-impressao-mp20-mi-bematech#readme",
   "keywords": [
     "slc",
     "ponto de controle",
     "ibs"
   ],
-  "author": "IBS Tecnologia",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/EvertonMoraesSilva/slc-impressao-mp20-mi-bematech/issues"
+  "main": "app.js",
+  "name": "@ibs-tecnologia/slc_ibs_impressao-mp20-mi-bematech",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvertonMoraesSilva/slc-impressao-mp20-mi-bematech.git"
   },
-  "homepage": "https://github.com/EvertonMoraesSilva/slc-impressao-mp20-mi-bematech#readme"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.1"
 }
